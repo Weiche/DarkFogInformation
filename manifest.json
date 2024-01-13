@@ -1,0 +1,9 @@
+{
+    "name": "Dark_Fog_Information",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Show information of hives",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.17"
+    ]
+}
