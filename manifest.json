@@ -1,7 +1,7 @@
 {
     "name": "Dark_Fog_Information",
     "version_number": "1.0.2",
-    "website_url": "",
+    "website_url": "https://github.com/Weiche/DarkFogInformation",
     "description": "Show information of hives",
     "dependencies": [
         "xiaoye97-BepInEx-5.4.17"
