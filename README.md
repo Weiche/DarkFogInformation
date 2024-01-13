@@ -27,4 +27,4 @@ Version 1.0.2
 
 # Preview
 ## Hive Detail
-![alt Preview Starview](https://github.com/Weiche/DarkFogInformation/blob/6d933f28c41d78781e9c2fce6e45be3e3163cf59/preview_starview.jpg)
+![alt Preview Starview](https://raw.githubusercontent.com/Weiche/DarkFogInformation/main/preview_starview.jpg)
